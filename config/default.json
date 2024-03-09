@@ -1,0 +1,5 @@
+{
+  "mongoURI": " ",
+  "jwtSecret": "1234qwer",
+  "jwtExpiration": 360000
+}
